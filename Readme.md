@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vikram</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=QA+Engineer;Manual+Tester;API+Tester;Bug+Hunter)](https://git.io/typing-svg)
+(https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=QA+Engineer;Manual+Tester;API+Tester;Bug+Hunter)](https://git.io/typing-svg)
 
 # 🚀 About Me:
 
