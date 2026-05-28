@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vikram</h1>
-<h3 align="center">QA Engineer | Manual Testing | API Testing | SQL | Selenium</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=QA+Engineer;Manual+Tester;API+Tester;Bug+Hunter)](https://git.io/typing-svg)
 
 # 🚀 About Me:
 
